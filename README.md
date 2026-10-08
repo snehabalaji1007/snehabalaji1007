@@ -1,10 +1,10 @@
 # Hi there, I'm Sneha! 👋
 
-I am a Computer Science Honors student at the University of Florida with a background rooted in civic leadership and public policy. I view technology through an analytical and human-centric lens, focusing on building software that solves tangible community challenges and exploring the intersections of backend data architecture and technology ethics.
+I am a Computer Science Honors student at the University of Florida with a background rooted in civic leadership and public policy. I view technology through an analytical and human-centric lens, focusing on building software that solves community challenges and exploring the intersections of backend data architecture and technology ethics.
 
 ## 🚀 About Me
-- 🐊 **Education:** B.S. in Computer Science @ University of Florida (Honors Program, GPA: 4.0)
-- 💡 **Current Focus:** Developing backend data pipelines and expanding my full-stack workflow foundations.
+- 🐊 **Education:** B.S. in Computer Science @ University of Florida (Honors Program)
+- 💡 **Current Focus:** Developing backend data pipelines and expanding my full-stack workflow foundations. I aim to become more fluent in reading and writing code as I continue to seek guidance from mentors and pursue projects I'm passionate about. 
 - 🔄 **My Pivot:** Transitioned from a deep focus on political science and community advocacy in high school to software engineering, blending a unique perspective on social impact with computer science principles.
 
 ## 🛠️ Tech Stack & Tools
