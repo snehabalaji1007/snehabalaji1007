@@ -20,21 +20,16 @@ I am a Computer Science Honors student at the University of Florida with a backg
 - Collaborating within a cross-functional development team to systematically integrate technical reviews and streamline database structures.
 - Initiating self-directed study of Python data frameworks and React concepts to support frontend data mapping.
 
+### 🌐 Personal Portfolio Website
+*Independent Developer | Sep 2026 – Present (In Progress)*
+- Designing and constructing a personal portfolio website from scratch via VSCode to serve as a central hub for my academic milestones.
+- Utilizing foundational HTML, CSS, and JavaScript syntax to explore frontend development concepts and responsive web layouts, exploring different possibilities with code.
+- Establishing a clean digital trail by managing the local codebase through Git repositories to track structural version history.
+
 ### 📊 Computational Linguistics Efficiency Study
 *Lead Data Researcher | Jan 2026 – May 2026*
 - Designed and executed an empirical research study utilizing Microsoft Excel to evaluate and model structural language optimization across six Western languages.
 - Formulated logical analysis metrics based on word counts, sentence architectures, and character density per idea.
-
-## 🏛️ Campus Involvement & Leadership
-- **First Byte Program (WICSE):** Technical enrichment member practicing core software engineering principles and collaborative repository workflows.
-- **Inter-Residential Hall Association (IRHA):** Marketing Director for the Honors Village Area Government, managing end-to-end promotional pipelines and cross-functional event timelines serving 1,000+ residents.
-- **Civic Footprint:** Former Senior Council Member for the Tampa Mayor's Youth Corps and Legislative/Campaign Intern, specializing in operational tracking and community advocacy grids.
-
-## 🏆 Awards & Honors
-- National Merit Scholar (2026)
-- Benaquisto Scholarship Recipient (2026)
-- Bright Futures Scholarship Recipient (2026)
-- President’s Volunteer Service Award (Gold Standard) (2022)
 
 ## 🤝 Connect with Me
 - **LinkedIn:** www.linkedin.com/in/snehabalaji007
