@@ -1,4 +1,4 @@
-# Hi there, I'm Sneha Balaji! 👋
+# Hi there, I'm Sneha! 👋
 
 I am a Computer Science Honors student at the University of Florida with a background rooted in civic leadership and public policy. I view technology through an analytical and human-centric lens, focusing on building software that solves tangible community challenges and exploring the intersections of backend data architecture and technology ethics.
 
