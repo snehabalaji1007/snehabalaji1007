@@ -8,7 +8,7 @@ I am a Computer Science Honors student at the University of Florida with a backg
 - 🔄 **My Pivot:** Transitioned from a deep focus on political science and community advocacy in high school to software engineering, blending a unique perspective on social impact with computer science principles.
 
 ## 🛠️ Tech Stack & Tools
-- **Languages:** Python, HTML/CSS/JavaScript (In Progress)
+- **Languages:** Python, HTML/CSS/JavaScript (In Progress), React (In Progress)
 - **Version Control & Workflows:** Git, GitHub
 - **IDEs & Developer Tools:** PyCharm, VSCode, Microsoft Excel
 - **Spoken Languages:** Tamil (Fluent), Spanish (Intermediate), Hindi (Conversational)
