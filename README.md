@@ -37,5 +37,5 @@ I am a Computer Science Honors student at the University of Florida with a backg
 - President’s Volunteer Service Award (Gold Standard) (2022)
 
 ## 🤝 Connect with Me
-- **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+- **LinkedIn:** www.linkedin.com/in/snehabalaji007
 - **Email:** sneha.balaji1007@gmail.com
